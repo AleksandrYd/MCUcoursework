@@ -1,0 +1,16 @@
+# ninja log v6
+18	362	7882008185310810	DS18B20Terminal_autogen/timestamp	6fb70b2e95b8dbcf
+18	362	7882008185310810	DS18B20Terminal_autogen/mocs_compilation.cpp	6fb70b2e95b8dbcf
+18	362	7882008185310810	E:/code/qt_projects/sys_test/DS18B20Terminal/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/DS18B20Terminal_autogen/mocs_compilation.cpp	6fb70b2e95b8dbcf
+18	362	7882008185310810	E:/code/qt_projects/sys_test/DS18B20Terminal/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/DS18B20Terminal_autogen/timestamp	6fb70b2e95b8dbcf
+365	7973	7882008188782299	CMakeFiles/DS18B20Terminal.dir/mainwindow.cpp.obj	2983a06e4216eed5
+49	9547	7881976768713455	CMakeFiles/DS18B20Terminal.dir/DS18B20Terminal_autogen/mocs_compilation.cpp.obj	6aef2d6d2494734d
+7973	8929	7882008264858907	DS18B20Terminal.exe	d84d85c3317a905c
+72	9014	7881976768954577	CMakeFiles/DS18B20Terminal.dir/main.cpp.obj	c9a78a15d6a90a50
+125	7567	7881976769485961	CMakeFiles/DS18B20Terminal.dir/serialport.cpp.obj	863798e1b84f5fab
+28	438	7882023784764650	DS18B20Terminal_autogen/timestamp	6fb70b2e95b8dbcf
+28	438	7882023784764650	DS18B20Terminal_autogen/mocs_compilation.cpp	6fb70b2e95b8dbcf
+28	438	7882023784764650	E:/code/qt_projects/sys_test/DS18B20Terminal/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/DS18B20Terminal_autogen/timestamp	6fb70b2e95b8dbcf
+28	438	7882023784764650	E:/code/qt_projects/sys_test/DS18B20Terminal/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/DS18B20Terminal_autogen/mocs_compilation.cpp	6fb70b2e95b8dbcf
+440	7092	7882023788888284	CMakeFiles/DS18B20Terminal.dir/mainwindow.cpp.obj	2983a06e4216eed5
+7092	8065	7882023855408710	DS18B20Terminal.exe	d84d85c3317a905c
